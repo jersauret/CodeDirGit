@@ -15,7 +15,7 @@ class IsoCalRep:
         self.cal_rep_nam = cal_rep_nam
         self.c_iso_res_rep_dict = {}
         self.mus_vel_m1v1 = str(mus_iso_name + "V4")
-        full_data_from_json = self.access_json()
+        full_data_from_json = self.read_json()
         self.iso_max_tor = self.get_max_tor(full_data_from_json['Torque'])
         [self.ago_mus_txt, self.vel_txt, self.aty_txt, self.fex_txt] = get_str_for_m_v_type_repnb_dir(
             self.mus_vel_m1v1)
@@ -43,7 +43,7 @@ class IsoCalRep:
             "max_tor": self.iso_max_tor
         })
 
-    def access_json(self):
+    def read_json(self):
         base_new_path = Path("C:\\HealthTrackHome\\DataDir\\calib_json")
         new_file_name = Path(self.fil_name_no_ext + '.json')
         print("pour cette répétition je charge le fichier:", new_file_name)

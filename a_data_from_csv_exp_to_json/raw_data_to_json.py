@@ -1,9 +1,4 @@
 from pathlib import Path
-from b_back_pro.utils.data_crafting_tools.pre_processing_of_data import cutting_beg_and_end_from_position, \
-    cutting_beg_and_end_base_on_GRF
-from b_back_pro.utils.data_services.antrho_data_service import import_biomechanics_as_df, \
-    import_calibration_as_df
-from pathlib import Path
 
 from b_back_pro.utils.data_crafting_tools.pre_processing_of_data import cutting_beg_and_end_from_position, \
     cutting_beg_and_end_base_on_GRF
