@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CodeDirGit.iml" filepath="$PROJECT_DIR$/.idea/CodeDirGit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/firestorefromtutorial.iml" filepath="$PROJECT_DIR$/.idea/firestorefromtutorial.iml" />
     </modules>
   </component>
 </project>

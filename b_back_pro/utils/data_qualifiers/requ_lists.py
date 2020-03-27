@@ -1,0 +1,25 @@
+import numpy as np
+
+# REGLAGES EN BAS DE CETTE PAGE # REGLAGES EN BAS DE CETTE PAGE# REGLAGES EN BAS DE CETTE PAGE
+# ParticipantmethodsrequestParticipantmethodsrequestParticipantmethodsrequest
+# _________________________________________________________________________________
+
+
+# _________________________________________________________________________________
+# ___________________________________________________________________________________
+# participantsettingsrequestsparticipantsettingsrequestsparticipantsettingsrequests
+# _________________________________________________________________________________
+first_participant_nb = 1
+last_participant_nb = 2
+
+# DONOTTOUCHDONOTTOUCHDONOTTOUCHDONOTTOUCHDONOTTOUCHDONOTTOUCHDONOTTOUCHDONOTTOUCH
+participant_as_nb_list = np.arange(first_participant_nb, last_participant_nb)
+# end of participant end of participant end of participant end of participant end of
+# ________________________________________________________________
+# variablesbegvariablesbegvariablesbegvariablesbegvariablesbegvariablesbeg
+# 111111111111111111111111 PREDICTED VARIABLE 11111111111111111111111111
+predicted_variable_from_lists = ''
+# 11111111111111111111111111111111111111111111111111111111111111111111111
+# 222222222222222222222222PREDICTOR VARIABLE 222222222222222222222222222222
+predictor_variable_list_from_lists = []
+# variablesendvariablesendvariablesendvariablesendvariablesendvariablesend

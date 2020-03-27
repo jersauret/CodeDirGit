@@ -1,0 +1,28 @@
+Calibration
+repetitop= rep
+managar=man
+velocity = vel
+lateral / head = lh
+medial head= mh
+agonist= ago
+antagonist = ant
+muscle=mus
+action = act
+action type = aty
+direction = fex (flexion ou extension)
+group = grp
+echanges clientsts= client_exc
+request = requ
+process = pro
+classssify= cla
+create = cre
+current = cur
+BIOMECHANICS
+val = valgus, to be described as knocked knees
+fle = flexion
+pos= position
+exc = excursion = valeur debut phase _ valeur fin phase
+gc = ground contact : moment in time where the foot hits the ground
+ip = impact phase defined as the local maximum for grf
+pf = peak force; local maximum for ground reaction force
+repetitions_managers= rep_man

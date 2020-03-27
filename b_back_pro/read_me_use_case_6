@@ -1,0 +1,23 @@
+Dans ce use_case le but est d'adresser la base de données en lecture et en
+écriture en utilisant directement la notion d'objet (Participant).
+Ainsi à l'initialisation le participant se verra attribuer les données brutes
+Pour commencer on integrera :
+- EM1V1R1 (VL)
+- Torque
+- Velocity
+- Position
+- weight
+- height
+
+TO DO
+Infra
+créer la bdd firestore : these_v2
+télécharger le json de connexion
+
+Code
+- commencer par vérifeir la cohérence des imports dans tout le use case 6
+
+- Créer la classe participant avec les variables ci dessus
+(initialisation vide ou allocation directe après lecture csv
+- Créer la classe utilitaires de connexion avec la base
+-

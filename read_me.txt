@@ -1,5 +1,3 @@
-# CodeDirGit
- 
 # HealthTrack
 
 HealthTrack is a Python3 app with purpose to help pratictioners diagnostic an increased risk of ACL injury in 
