@@ -7,7 +7,7 @@ females aged around 20.
 
 ## Installation
 
-This app has been created using a virtualenv (python37) with all requirements listed in requirements.txt
+This super app has been created using a virtualenv (python37) with all requirements listed in requirements.txt
 Simply download the files, access the project folder and run entrypoint.py
 a_data_from ... : script to transform the original data and transform it to json format.
 this format is what the rest of the project will use.
